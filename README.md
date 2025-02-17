@@ -1,4 +1,4 @@
-# 🎨 UI/UX Internship Repository - CODTECH IT SOLUTIONS PVT. LTD.
+# 🎨 UI/UX Design Internship Repository 
 
 Welcome to my **UI/UX Internship Repository** at **CODTECH IT SOLUTIONS PVT. LTD.**! This repository showcases my design projects, including **redesigned interfaces, responsive web designs, mobile app improvements, and AR/VR UI prototypes.**
 

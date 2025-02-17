@@ -13,19 +13,23 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
 
 ### **1️⃣ Website Landing Page Redesign**
 🔹 Before-and-after visuals with a breakdown of improvements.  
-🔹 Enhanced **navigation, readability, and user engagement**.
+🔹 Enhanced **navigation, readability, and user engagement**.  
+🔹 **Project Link:** [Insert URL Here]
 
 ### **2️⃣ Responsive Webpage Development**
-🔹 Designed a webpage using **HTML, CSS, and JavaScript**.
-🔹 Ensured seamless adaptability across different devices.
+🔹 Designed a webpage using **HTML, CSS, and JavaScript**.  
+🔹 Ensured seamless adaptability across different devices.  
+🔹 **Project Link:** [Insert URL Here]
 
 ### **3️⃣ Mobile App UI/UX Redesign**
-🔹 Identified and solved a **critical user pain point**.
-🔹 Created a prototype with **improved usability and visual appeal**.
+🔹 Identified and solved a **critical user pain point**.  
+🔹 Created a prototype with **improved usability and visual appeal**.  
+🔹 **Project Link:** [Insert URL Here]
 
 ### **4️⃣ AR/VR Interface Design**
-🔹 Designed **intuitive interactions for an AR/VR application**.
-🔹 Developed mockups showcasing **user-friendly virtual interfaces**.
+🔹 Designed **intuitive interactions for an AR/VR application**.  
+🔹 Developed mockups showcasing **user-friendly virtual interfaces**.  
+🔹 **Project Link:** [Insert URL Here]
 
 ---
 
@@ -59,5 +63,8 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
 
 ## 🏆 **Internship Outcome**
 This repository highlights my **UI/UX expertise**, ability to **solve real-world design challenges**, and proficiency in **creating engaging digital experiences**. 🚀
+
+📜 **Offer Letter & Certification**
+Upon successful completion of the internship, I will receive an **offer letter and certification** from **CODTECH IT SOLUTIONS PVT. LTD.**, validating my skills and contributions.
 
 ---

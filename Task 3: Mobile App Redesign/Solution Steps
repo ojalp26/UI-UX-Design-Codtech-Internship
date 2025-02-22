@@ -1,0 +1,106 @@
+Task 3: Quora App Redesign
+
+
+Objective:
+Choose a popular mobile app and redesign its UI/UX to address a specific pain point.
+
+📌 Problem Statement:
+Enhancing Quora’s navigation and search experience to improve content discovery and user engagement.
+
+My Work:
+I redesigned the Quora app interface, focusing on a cleaner layout, better content organization, and an enhanced user experience. The redesign aimed to improve readability, navigation, and accessibility.
+
+Why Quora? (Common Pain Points)
+🔹 Cluttered UI – Too many suggested questions, making it overwhelming.
+🔹 Navigation Issues – Hard to find saved answers or follow topics efficiently.
+🔹 Search Experience – Not always intuitive; older answers dominate over new relevant ones.
+🔹 Poor Engagement Flow – Answering a question could be more interactive.
+
+In the Quora mobile app, the top navigation bar typically includes several buttons/icons, such as:
+1.	Home – Takes users to the main feed.
+2.	Following – Shows posts from followed topics and people.
+3.	Spaces – Displays content from joined communities.
+4.	Notifications – Alerts for new answers, upvotes, and mentions.
+5.	Profile/Menu – Access to user settings, bookmarks, and preferences.
+6.	Search – Allows users to find questions, answers, and topics.
+7.	Ask Question – A prominent button for adding new questions.
+
+________________________________________
+
+Should you Remove Some Buttons?
+
+You should declutter and prioritize usability by:
+
+✅ Keeping essential buttons:
+       •	Home, Search, and Notifications are fundamental.
+       •	Ask Question should stay accessible for engagement.
+
+✅ Removing or restructuring:
+         •	Following & Spaces could be merged under a single "Community" tab.
+         •	Profile/Menu can be moved to the bottom navigation for better accessibility.
+
+✅ Optimized Layout:
+         •	Reduce the number of visible buttons in the top bar (e.g., move secondary options to a sidebar).
+         •	Use an intuitive bottom navigation for frequently used features.
+         •	Prioritize a clean UI by ensuring no overwhelming elements.
+
+________________________________________
+
+Page 1 : 
+Home Page UI/UX Improvements
+
+For the top bar, I made the following improvements:
+
+✔ Shifted the logo to the left for better branding visibility.
+✔ Moved the search bar to the right for a cleaner and more balanced layout.
+✔ Added a profile section on the far right, making it easily accessible.
+
+In the old version, all these elements were combined, making navigation cluttered. To improve usability, I reorganized the bottom navigation bar:
+    ✔ Home Page – First icon for quick access to the main feed.
+    ✔ Merged "Following" and "Spaces" into one icon, simplifying navigation.
+    ✔ Centered the "Create Post" button, which includes the "Ask Question" feature. The icon is slightly bigger than others to highlight its importance.
+    ✔ Redesigned the "Ask Question" icon – Earlier, it was a box with a pen, which was unclear. I replaced it with a Q&A icon (two dialog boxes) to make its function more obvious.
+    ✔ Placed the Notification icon at the end, ensuring users can quickly check updates.
+These changes enhance usability, navigation flow, and visual clarity, making the Quora app more intuitive and user-friendly.
+
+________________________________________
+
+Page 2: 
+Merging "Following" & "Spaces" into One Section
+
+In the old version of Quora, "Following" and "Spaces" were separate tabs in the navigation bar. However, users often found it confusing and redundant to switch between them, as both contained content from topics and people they follow.
+To improve usability and navigation efficiency, I:
+
+✔ Merged "Following" and "Spaces" into a single icon in the bottom navigation bar. This reduces clutter and simplifies the menu while still allowing access to both sections.
+✔ When users click on this icon, they are taken to a new page with a tabbed interface at the top:
+           •	"Following" Tab – Shows posts from people and topics the user follows.
+           •	"Spaces" Tab – Displays posts from communities the user has joined.
+✔ This redesign allows users to seamlessly switch between Following and Spaces with one tap instead of navigating through multiple menus.
+✔ The merged section reduces cognitive load and makes navigation more intuitive, while the tab system ensures that both features remain accessible.
+
+________________________________________
+
+
+Page 3: 
+Create Icon & Posting Experience Improvements:
+
+In the previous version of Quora, the “Create” icon was not as intuitive, and users had difficulty distinguishing between asking a question and posting content. To streamline the process, I made the following enhancements:
+
+✔ Centralized "Create" Icon – This icon is placed at the center of the bottom navigation bar to highlight its importance. It is also slightly larger than other icons to indicate its primary function.
+✔ Clicking the Create Icon Triggers a Type Bar – When the user taps on the "Create" button, a text input bar appears at the top, allowing users to quickly start typing.
+✔ Two Clear Options Below the Type Bar:
+          •	Ask – Opens a new page where users can type and post a question.
+          •	Post – Opens a separate page where users can write a general post (opinion, discussion, or text-based content).
+✔ Suggested Questions Section Below Options:
+          •	This section suggests questions users can answer, making engagement easier.
+          •	It includes question requests from other users and drafts of previously started responses, allowing users to continue writing if they didn’t finish earlier.
+
+Why This Redesign?
+✅ Better clarity – Users instantly see the difference between "Ask" and "Post".
+✅ Improved engagement – Suggested questions encourage users to contribute more.
+✅ More intuitive flow – Users can quickly switch between actions without confusion.
+
+This redesign ensures a cleaner, more structured content creation experience, making it easier for users to engage with Quora seamlessly. 🚀 Let me know if you'd like to refine this further! 😊
+
+________________________________________
+

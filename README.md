@@ -24,7 +24,7 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
 ### **3️⃣ Mobile App UI/UX Redesign**
 🔹 Identified and solved a **critical user pain point**.  
 🔹 Created a prototype with **improved usability and visual appeal**.  
-🔹 **Project Link:** [Insert URL Here]
+🔹 **Project Link:** [Click here](https://github.com/ojalp26/UI-UX-Design-Codtech-Internship/tree/main/Task%203%3A%20Mobile%20App%20Redesign)
 
 ### **4️⃣ AR/VR Interface Design**
 🔹 Designed **intuitive interactions for an AR/VR application**.  

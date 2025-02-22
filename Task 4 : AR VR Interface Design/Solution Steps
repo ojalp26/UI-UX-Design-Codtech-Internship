@@ -1,0 +1,124 @@
+Task 4: AR/VR Shopping App UI - Vision Cart
+
+
+Objective:
+Design a UI for an AR/VR application with intuitive interactions.
+
+________________________________________ 
+
+My Work:
+
+I created a shopping app prototype called Vision Cart, integrating AR/VR for an immersive shopping experience. Vision Cart – AR/VR Shopping Experience
+Overview
+Vision Cart is an innovative shopping app that integrates Augmented Reality (AR) and Virtual Reality (VR) to provide users with an immersive and interactive shopping experience. The app allows users to virtually try on outfits, explore products in a 3D environment, and personalize their looks before making a purchase. The app includes features such as:
+    •	Opening Page: Displays the Vision Cart logo and tagline.
+    •	Sign-in Page: Allows users to sign in via Apple, Google, or Facebook or enter their email to continue. A "Create Account" option is also available.
+    •	Home Page: Features a search bar (with a camera icon for virtual shopping), top-selling items, and a banner prompting users to try virtual shopping. The bottom navigation includes Home, Menu, Cart, Wishlist, and Profile buttons.
+    •	Virtual Store Page: Users can choose between three options:
+            1.	Open Camera - Try on items in real time.
+            2.	Upload Image - See how clothes look on their uploaded image.
+            3.	Create Look - Customize a 3D mannequin with different outfits.
+    •	Your Look AR Page: Users can style the 3D figure by selecting shirts, trousers, jeans, and jackets.
+
+________________________________________
+
+Deliverables:
+•	Mockups and prototypes of the AR/VR shopping experience
+
+________________________________________
+
+Technologies Used
+•	Figma (for UI design and prototyping)
+•	Canva (for additional design elements)
+
+________________________________________
+
+App Features and Page-by-Page Breakdown:
+
+
+1. Opening Page (Splash Screen – Logo)
+
+       •	The first screen displays the Vision Cart logo, reinforcing the app’s identity and theme:
+          “See. Shop. Experience.”
+       •	This tagline highlights how users can visualize products, shop with ease, and experience AR/VR technology for a realistic shopping journey.
+       •	The background has a simple gradient blue design, ensuring a clean and modern UI.
+________________________________________
+
+2. Sign-in Page (Social Login Options)
+
+        •	Users are given multiple sign-in options for a seamless login experience:
+              o	Continue with Apple
+              o	Continue with Google
+              o	Continue with Facebook
+              o	Continue with Email
+        •	This helps users quickly log in without the need to manually enter credentials, making the process faster and more convenient.
+
+________________________________________
+
+3. Sign-in Page (Email Login + Account Creation) 
+
+        •	If a user prefers manual login, they can enter their email address in the provided input field.
+        •	If they don’t have an account, there’s a “Create One” option that redirects them to the registration page.
+        •	A “Continue” button allows users to proceed once they’ve entered their credentials.
+        •	The page follows a minimalist and user-friendly design for easy navigation.
+________________________________________
+
+4. Home Page – Main Shopping Interface
+
+Top Section:
+     •	A search bar at the top lets users quickly find products.
+     •	On the right side of the search bar, there is a camera icon that provides quick access to the AR/VR shopping feature.
+
+Virtual Store Banner:
+     •	Just below the search bar, a promotional banner encourages users to explore the Virtual Shopping experience.
+     •	It includes a “Enter Virtual Store” button that redirects users to the Virtual Store Page.
+
+Categories & Top-Selling Products:
+     •	Below the banner, there is a category section displaying different types of products:
+            o	Hoodies
+            o	Shoes
+            o	Bags
+            o	Accessories
+     •	Users can browse through these categories or tap on “See All” for a wider range of products.
+     •	The Top Selling Products section displays popular products, showing their name, image, and price.
+
+Bottom Navigation Bar:
+The bottom of the screen has a navigation bar with five essential buttons:
+       1.	Home – Returns to the main shopping screen.
+       2.	Menu – Opens the full category list.
+       3.	Cart – Shows items the user has added for purchase.
+       4.	Wishlist – Displays saved/favorite items.
+       5.	Profile – Allows users to manage their account and settings.
+________________________________________
+
+5. Virtual Store Page – AR/VR Shopping Options
+When users click on the “Enter Virtual Store” button from the Home Page, they are taken to the Virtual Store Page, which presents three options:
+           1.	Open Virtual Camera:
+                   o	Users can enable their camera to try on clothes using Augmented Reality (AR).
+                   o	This feature allows real-time product visualization, giving users a preview of how outfits look on them.
+           2.	Upload Your Image:
+                   o	Users can upload a photo of themselves to see how different outfits look on their body.
+                   o	The app overlays clothing items onto the uploaded image, simulating a virtual dressing room.
+           3.	Create Your Own Look:
+                   o	Redirects users to the Your Look (3D Styling) Page, where they can customize a 3D mannequin.
+                   o	Allows users to mix and match different outfits to create their desired look.
+
+________________________________________
+
+6. Your Look (3D Styling Page – Virtual Fitting Room):
+          •	After selecting “Create Your Own Look”, users are taken to an interactive 3D environment where they can customize an avatar or mannequin.
+          •	A 3D model of a human figure appears on the screen, allowing users to style it with different clothing options.
+          •	Users can select outfits from various categories:
+                   o	Shirts
+                   o	Trousers
+                   o	Jeans
+                   o	Jackets
+          •	The interface provides an intuitive way to drag and drop clothing items onto the mannequin, giving users a realistic preview of how the clothes will look together.
+          •	This feature enhances the virtual shopping experience, making it easier for users to decide on outfits before purchasing.
+
+________________________________________
+
+Conclusion: 
+Vision Cart is designed to revolutionize online shopping by integrating AR/VR technology for a more interactive and engaging experience. With features like virtual try-ons, 3D outfit styling, and responsive web development, the app provides users with a seamless and innovative way to shop online.
+This project showcases expertise in UI/UX design, and AR-based shopping solutions, making it a valuable addition to any portfolio. 
+

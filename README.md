@@ -29,7 +29,7 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
 ### **4️⃣ AR/VR Interface Design**
 🔹 Designed **intuitive interactions for an AR/VR application**.  
 🔹 Developed mockups showcasing **user-friendly virtual interfaces**.  
-🔹 **Project Link:** [Insert URL Here]
+🔹 **Project Link:** [Click here](https://github.com/ojalp26/UI-UX-Design-Codtech-Internship/tree/main/Task%204%20%3A%20AR%20VR%20Interface%20Design)
 
 ---
 

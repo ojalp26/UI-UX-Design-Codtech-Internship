@@ -4,7 +4,7 @@ Welcome to my **UI/UX Internship Repository** at **CODTECH IT SOLUTIONS PVT. LTD
 
 **📌 COMPANY:** CODTECH IT SOLUTIONS PVT. LTD.  
 **📌 NAME:** Ojal Paturday  
-**📌 INTERN ID:** CT08TKR
+**📌 INTERN ID:** CT08TKR  
 **📌 DOMAIN:** UI/UX Design  
 **📌 DURATION:** 4 Weeks (February 10th, 2025 - March 10th, 2025)  
 **📌 MENTOR:** Neela Santhosh Kumar 

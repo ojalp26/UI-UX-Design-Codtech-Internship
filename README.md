@@ -14,12 +14,12 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
 ### **1️⃣ Website Landing Page Redesign**
 🔹 Before-and-after visuals with a breakdown of improvements.  
 🔹 Enhanced **navigation, readability, and user engagement**.  
-🔹 **Project Link:** [Insert URL Here]
+🔹 **Project Link:** [Click here](https://github.com/ojalp26/UI-UX-Design-Codtech-Internship/blob/main/Task%201%20%3A%20Redesign%20a%20Website%20Landing%20Page/Old%20to%20New%20Redesign.png)
 
 ### **2️⃣ Responsive Webpage Development**
 🔹 Designed a webpage using **HTML, CSS, and JavaScript**.  
 🔹 Ensured seamless adaptability across different devices.  
-🔹 **Project Link:** (Click here)[file:///D:/UIUX%20internship%20good%20reads%20_%20codtech/task2webpage/index.html]
+🔹 **Project Link:** [Click here](file:///D:/UIUX%20internship%20good%20reads%20_%20codtech/task2webpage/index.html)
 
 ### **3️⃣ Mobile App UI/UX Redesign**
 🔹 Identified and solved a **critical user pain point**.  

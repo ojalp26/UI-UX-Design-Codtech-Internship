@@ -48,16 +48,10 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
  ├── 📁 Task-2_Responsive-Webpage
  ├── 📁 Task-3_Mobile-App-Redesign
  ├── 📁 Task-4_AR-VR-Interface
- ├── 📁 Assets (Images, Mockups, Wireframes)
  ├── 📄 README.md (This file)
 ```
 
----
-
-## 📢 **Additional Notes**
-✔️ All files are documented for better clarity.  
-✔️ Proper **commenting** is maintained in code files.  
-✔️ Research and **UX best practices** guided all design improvements.  
+  
 
 ---
 
@@ -65,6 +59,7 @@ This internship focused on enhancing **usability, accessibility, and aesthetics*
 This repository highlights my **UI/UX expertise**, ability to **solve real-world design challenges**, and proficiency in **creating engaging digital experiences**. 🚀
 
 📜 **Offer Letter & Certification**
-Upon successful completion of the internship, I will receive an **offer letter and certification** from **CODTECH IT SOLUTIONS PVT. LTD.**, validating my skills and contributions.
+For my UI/UX internship, here is my offer letter.  
+Thanks to **CODTECH IT SOLUTIONS PVT. LTD.**, validating my skills and contributions and for providing me with this opportunity!  
 
----
+📄 **Offer Letter:** [[View](https://www.linkedin.com/posts/ojal-paturday-7246ab321_uiuxdesign-codtech-internship-activity-7294643477080899584-irRr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFwUEwBvXKwUsagnGYv5VK5aJFcIdB4b5s)] 
